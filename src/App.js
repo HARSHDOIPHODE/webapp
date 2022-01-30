@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
    <div><h1>or nalle</h1>
-   <h1> tera baap ka kya jata hai</h1>
+   <h1> teri ****** </h1>
    <h1> chal ja ghina</h1>
      </div>
   )

@@ -1,7 +1,7 @@
 import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro";
 import Portfolios from "./components/portfolios/Portfolios";
-import Testimonials from "./components/Testimonials/Testimonials";
+import Testimonials from "./components/testimonials/testimonials";
 import Works from "./components/works/Works";
 import Contact from "./components/contact/Contact";
 

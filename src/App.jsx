@@ -1,7 +1,7 @@
 import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro";
 import Portfolios from "./components/portfolios/Portfolios";
-import Testimonials from "./components/testimonials/Testimonials";
+import Testimonials from "./components/Testimonials/Testimonials";
 import Works from "./components/works/Works";
 import Contact from "./components/contact/Contact";
 
@@ -18,9 +18,5 @@ function App() {
      </div>
      </div>
   )
-
-   
-  
 }
-
 export default App;

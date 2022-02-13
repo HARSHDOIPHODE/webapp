@@ -19,7 +19,7 @@
             border-radius: 10px;
             cursor: pointer;
             &.active{
-                background-color: black;
+                background-color: rgb(0, 0, 0);
                 color: white;
 
             }
@@ -55,7 +55,7 @@
                 z-index: 1;
             }
             &:hover{
-                background-color: black;
+                background-color: lightskyblue;
                 img{
                     opacity: 0.2;
                     z-index: 0;

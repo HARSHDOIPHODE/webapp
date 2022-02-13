@@ -1,20 +1,28 @@
 .works {
-    background-color: rgb(204, 206, 207);
+    background-color:rgb(240, 242, 245) ;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
+    h1 {
+      font-size: 50px;
+      color: black;
+  
+      
+    }
   
     .arrow {
-      height: 50px;
+      height: 70px;
       position: absolute;
       cursor: pointer;
+      
   
      
   
       &.left {
         left: 100px;
         transform: rotateY(180deg);
+        
       }
   
       &.right {
@@ -35,19 +43,21 @@
       .container {
         width: 100vw;
         display: flex;
-        box-shadow: 0px 0px 15px -8px black;
+        
         align-items: center;
         justify-content: center;
+        
   
         .item {
           width: 700px;
           height: 100%;
           background-color:white;
+          box-shadow: 0px 0px 15px -8px black;
           border-radius: 20px;
           display: flex;
           align-items: center;
           justify-content: center;
-  
+         
           
           }
   

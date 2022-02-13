@@ -3,7 +3,7 @@ export const featuredPortfolio = [
       id: 1,
       title: "Social Media App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/Google-Pay-Citi-Mastercard-1000x600.jpg",
     },
     {
       id: 2,
@@ -66,8 +66,7 @@ export const featuredPortfolio = [
     {
       id: 6,
       title: "Web Banking App",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
-    },
+      img: "assets/download (5).jfif"},
   ];
   
   export const mobilePortfolio = [
@@ -81,8 +80,8 @@ export const featuredPortfolio = [
       id: 2,
       title: "Mobile Rampa UI Design",
       img:
-        "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
-    },
+        "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+      },
     {
       id: 3,
       title: "Mobile E-commerce Design",
@@ -153,37 +152,37 @@ export const featuredPortfolio = [
       id: 1,
       title: "Content Social Media App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/download (3).jfif",
     },
     {
       id: 2,
       title: "Content Rampa UI Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/download (3).jfif",
     },
     {
       id: 3,
       title: "Content E-commerce Web Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/download (3).jfif",
     },
     {
       id: 4,
       title: "Content Relax Mobile App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/download (3).jfif",
     },
     {
       id: 5,
       title: "Content Keser Web Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/download (3).jfif",
     },
     {
       id: 6,
       title: "Content Banking App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/download (3).jfif",
     },
   ];
   

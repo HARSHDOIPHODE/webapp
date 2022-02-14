@@ -33,10 +33,16 @@ const Contactform = () => {
   };
 
   return (
-    <div classname="Body">
-
+    <div classname="Body" id="Contactform" >
+     
+     
+     <h1>Contact Us </h1>
+     
+     
     <form className="form" onSubmit={handleSubmit}>
-      <h1>Contact Us 🤳</h1>
+    
+      
+      
 
       <label>Name</label>
       <input
@@ -61,11 +67,12 @@ const Contactform = () => {
 
       <button
         type="submit"
-        style={{ background: loader ? "#ccc" : " rgb(2, 2, 110)" }}
+        
       >
         Submit
       </button>
-    </form></div>
+    </form>
+    </div>
   );
 };
 
